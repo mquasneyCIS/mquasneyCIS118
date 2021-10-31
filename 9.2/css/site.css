@@ -1,0 +1,60 @@
+/*
+* === NEW: A6 RULE ===
+*/
+
+* { padding: 0; margin: 0; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+body { background-color: #cccccc; font-family: Helvetica, Arial, sans-serif; 
+
+/*
+* - NEW A6 DECLARATIONS -
+*/ 
+
+font-size: 1em; background-image: url(../images/bg_body.png); background-repeat: repeat-x; background-position: left top; }
+
+h1, h2, h3, h4, h5, h6 { font-family: Georgia, serif; }
+
+p, li { line-height: 1.25em; }
+
+p em { font-weight: bold; }
+
+/*
+* === NEW: A6 RULE ===
+*/
+
+p { margin-bottom: .625em; }
+
+ul#nav { background-color: #dddddd; 
+
+/* 
+* - NEW A6 DECLARATIONS -
+*/
+
+padding: 5px 10px;
+margin-bottom: 10px;
+}
+
+a { color: #008b14; }
+
+a:link { color: #00b14; }
+
+a:visited { color: #649a00; }
+
+a:hover { color: #00638b; }
+
+a:active { color: #008b14; }
+
+a:focus { color: #00638b; }
+
+table, tr, th, td {border:1px solid black; }
+th, td { padding: 4px; }
+
+div#container { width: 60em; margin: 0 auto; }
+
+div#header {margin-top: 20px; margin-bottom:20 px; }
+
+div#header img { border:1px solid #000; background-color: #fff; padding:5px; }
+
+blockquote {font-size: 2.5em; width:16.5 em; margin: 0 auto; padding: 10px 10px 10px 45px; color: #777; font-family: Georgia, serif; font-style:oblique; background-image: url(../images/bigquote.png); background-repeat: no-repeat; background-position: left 4%; }
+
+blockquote footer { font-size: .4em; color: #888; text-align: right; }
