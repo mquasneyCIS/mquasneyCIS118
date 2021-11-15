@@ -1,0 +1,22 @@
+body {
+	height: 100%;
+	text-align: center;
+	margin: 0px;
+	border-right: 20px solid black;
+	border-left: 20px solid black;
+}
+
+h1{
+	margin: 0px;
+	padding: 10px;
+}
+
+h2{
+	margin: 0px;
+	padding: 10px;
+}
+
+img{
+	Width: 60%;
+	Height: auto;
+}
